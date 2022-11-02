@@ -1,1 +1,1 @@
-# python_homework
+# задания по python
